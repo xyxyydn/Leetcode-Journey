@@ -1,2 +1,2 @@
-# nothing-special
-一个平平无奇的项目，还没想好要做什么
+# Leetcode-Journey
+记录Leetcode刷题之旅
